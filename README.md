@@ -62,6 +62,6 @@ Script automatizado que monitora o tempo de resposta de atendimentos e envia ale
 
 - 📧 Email: rafaanjos852@hotmail.com / azevedocrow@icloud.com 
 - 💼 LinkedIn: [https://www.linkedin.com/in/rafael-azevedo-64471a35a?utm_source=share&](https://www.linkedin.com/in/rafael-azevedo-64471a35a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🧑‍💻 GitHub: [https://github.com/Crow852]
+- 🧑‍💻 GitHub: https://github.com/Crow852
 
 ---
