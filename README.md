@@ -54,7 +54,7 @@ Script automatizado que monitora o tempo de resposta de atendimentos e envia ale
 - Alerta visual com mensagens personalizadas.
 
 **Tecnologias:**  
-`Python`, `Discord Webhooks`, `Manipulação de datas`, `Automação`
+`JavaScript`, `Discord Webhooks`, `Manipulação de datas`, `Automação`
 
 ---
 
