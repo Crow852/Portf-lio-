@@ -12,8 +12,11 @@ Aplicativo em Python que automatiza buscas por empresas no Google Maps com base 
 ## 📦 Como usar
 
 ### 1. Instalar dependências
-```bash
+
 pip install -r requirements.txt
 
-### Executar: 
+### 2. Executar
+
 python start_app.py
+
+
